@@ -201,13 +201,10 @@ The application uses shadcn/ui components including:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Authors
 
-- Your Name - *Initial work*
+- Shrinath Himane - *Initial work*
 
 ## 🙏 Acknowledgments
 
@@ -218,4 +215,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Shrinath Himane
